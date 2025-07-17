@@ -1,4 +1,4 @@
-﻿# GenerateRandomPeopleImg
+﻿# Generate Random People Imgages
 ## 🧰 Tools
 - Console Application
 - .Net 9
