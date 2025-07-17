@@ -1,5 +1,7 @@
 ﻿# GenerateRandomPeopleImg
 ## 🧰 Tools
+- Console Application
+- .Net 9
 - [API](https://randomuser.me/) Random User Generator for Images
 
 ## :star: Project Setup
